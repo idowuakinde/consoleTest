@@ -1,0 +1,11 @@
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/consoleTest/bin/Debug/netcoreapp2.1/consoleTest.deps.json
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/consoleTest/bin/Debug/netcoreapp2.1/consoleTest.runtimeconfig.json
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/consoleTest/bin/Debug/netcoreapp2.1/consoleTest.runtimeconfig.dev.json
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/consoleTest/bin/Debug/netcoreapp2.1/consoleTest.dll
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/consoleTest/bin/Debug/netcoreapp2.1/consoleTest.pdb
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/consoleTest/obj/Debug/netcoreapp2.1/consoleTest.csprojAssemblyReference.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/consoleTest/obj/Debug/netcoreapp2.1/consoleTest.csproj.CoreCompileInputs.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/consoleTest/obj/Debug/netcoreapp2.1/consoleTest.AssemblyInfoInputs.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/consoleTest/obj/Debug/netcoreapp2.1/consoleTest.AssemblyInfo.cs
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/consoleTest/obj/Debug/netcoreapp2.1/consoleTest.dll
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/consoleTest/obj/Debug/netcoreapp2.1/consoleTest.pdb
